@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey there buddy, its good to see yaa
+=======
+hey there buddy, its good to see yaa hello there buddy   !!!
+>>>>>>> new
